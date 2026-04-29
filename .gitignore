@@ -16,9 +16,9 @@ Thumbs.db
 *.env
 
 # Firebase / Google Secrets
-geotrackr-firebase.json
+google-services.json
 GoogleService-Info.plist
-firebase-admin.json
+geotrackr-firebase.json
 *.keystore
 *.jks
 
