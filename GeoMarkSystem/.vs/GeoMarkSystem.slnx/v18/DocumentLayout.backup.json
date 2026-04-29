@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Personal\\Data\\GeoMarkSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\helper\\firebaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\helper\\firebaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\context\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\context\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\wwwroot\\geotrackr-firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\wwwroot\\geotrackr-firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\infrastructure\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\infrastructure\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\views\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\views\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\context\\deliverysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\context\\deliverysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\entities\\userdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\entities\\userdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\services\\userdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\services\\userdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\views\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\views\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\middleware\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\middleware\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\views\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\views\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\common\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\common\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\services\\errorlogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\services\\errorlogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\entities\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\entities\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\services\\eventregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\services\\eventregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\authentication\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\authentication\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\jwtbuilder\\jwttokenbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\jwtbuilder\\jwttokenbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\models\\entities\\errorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\models\\entities\\errorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\jwtbuilder\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\jwtbuilder\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.api\\jwtbuilder\\jwtsecuritykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C299E6-0F5B-FA24-7FD4-C0700B6844E5}|GeoMarkSystem.Api\\GeoMarkSystem.Api.csproj|solutionrelative:geomarksystem.api\\jwtbuilder\\jwtsecuritykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\geomarksystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\geomarksystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\infrastructure\\disposable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\infrastructure\\disposable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\infrastructure\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\infrastructure\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\helpers\\shahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\helpers\\shahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|e:\\personal\\data\\geomarksystem\\geomarksystem.data\\helpers\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E97B9-E12C-8979-B7C1-DAED652231EB}|GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj|solutionrelative:geomarksystem.data\\helpers\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "geotrackr-firebase.json",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\wwwroot\\geotrackr-firebase.json",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\wwwroot\\geotrackr-firebase.json",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\wwwroot\\geotrackr-firebase.json",
+              "RelativeToolTip": "GeoMarkSystem.Api\\wwwroot\\geotrackr-firebase.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T19:27:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAiwGYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:30:28.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\Service.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Infrastructure\\Service.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\Service.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Infrastructure\\Service.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwI4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:53:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDeviceService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\UserDeviceService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Services\\UserDeviceService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\UserDeviceService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Services\\UserDeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:41:00.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Controllers\\EventController.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Controllers\\EventController.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAYwAICAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:15:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Context\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Context\\DbInitializer.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Context\\DbInitializer.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Context\\DbInitializer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:50:54.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirebaseInitializer.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Helper\\FirebaseInitializer.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Helper\\FirebaseInitializer.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Helper\\FirebaseInitializer.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Helper\\FirebaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:12:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Services\\UserService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\UserService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:55:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Program.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Program.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:05:06.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeliverySystemContext.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Context\\DeliverySystemContext.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Context\\DeliverySystemContext.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Context\\DeliverySystemContext.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Context\\DeliverySystemContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:51:31.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Views\\UserDto.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Views\\UserDto.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Views\\UserDto.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Views\\UserDto.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:54:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDevice.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\UserDevice.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Entities\\UserDevice.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\UserDevice.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Entities\\UserDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:48:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Entities\\User.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:55:39.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Entities\\Event.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\Event.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:13:50.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Views\\EventDto.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Views\\EventDto.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Views\\EventDto.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Views\\EventDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:14:37.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAcwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:54:27.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:04:49.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Middleware\\AppException.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Middleware\\AppException.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Middleware\\AppException.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Middleware\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:06:31.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Common\\OperationResult.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Common\\OperationResult.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Common\\OperationResult.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Common\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:50:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:50:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Views\\AuthDto.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Views\\AuthDto.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Views\\AuthDto.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Views\\AuthDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA6wCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:54:29.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T20:20:29.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Services\\AttendanceService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Services\\AttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:27:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Services\\EventService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\EventService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:15:45.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorLogsService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\ErrorLogsService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Services\\ErrorLogsService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\ErrorLogsService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Services\\ErrorLogsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:54:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Entities\\Attendance.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\Attendance.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:27:02.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Entities\\EventRegistration.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\EventRegistration.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Entities\\EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:22:16.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventRegistrationService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\EventRegistrationService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Services\\EventRegistrationService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Services\\EventRegistrationService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Services\\EventRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:23:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Authentication\\Authorization.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\Authentication\\Authorization.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\Authentication\\Authorization.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\Authentication\\Authorization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:48:09.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtTokenBuilder.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\JwtBuilder\\JwtTokenBuilder.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\JwtBuilder\\JwtTokenBuilder.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\JwtBuilder\\JwtTokenBuilder.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\JwtBuilder\\JwtTokenBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:04:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorLogs.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\ErrorLogs.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Models\\Entities\\ErrorLogs.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Models\\Entities\\ErrorLogs.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Models\\Entities\\ErrorLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:55:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\appsettings.json",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\appsettings.json",
+              "RelativeToolTip": "GeoMarkSystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T17:07:32.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\JwtBuilder\\JwtToken.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\JwtBuilder\\JwtToken.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\JwtBuilder\\JwtToken.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\JwtBuilder\\JwtToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:04:03.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtSecurityKey.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\JwtBuilder\\JwtSecurityKey.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Api\\JwtBuilder\\JwtSecurityKey.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Api\\JwtBuilder\\JwtSecurityKey.cs",
+              "RelativeToolTip": "GeoMarkSystem.Api\\JwtBuilder\\JwtSecurityKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:03:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GeoMarkSystem.Data.csproj",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj",
+              "RelativeToolTip": "GeoMarkSystem.Data\\GeoMarkSystem.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T16:59:44.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAEBUwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:53:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Infrastructure\\Repository.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\Repository.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Infrastructure\\Repository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAIBQwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:53:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Disposable.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\Disposable.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Infrastructure\\Disposable.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\Disposable.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Infrastructure\\Disposable.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:52:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\DbFactory.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Infrastructure\\DbFactory.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Infrastructure\\DbFactory.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Infrastructure\\DbFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:52:33.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShaHash.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Helpers\\ShaHash.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Helpers\\ShaHash.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Helpers\\ShaHash.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Helpers\\ShaHash.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:52:24.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Helpers\\FileService.cs",
+              "RelativeDocumentMoniker": "GeoMarkSystem.Data\\Helpers\\FileService.cs",
+              "ToolTip": "E:\\Personal\\Data\\GeoMarkSystem\\GeoMarkSystem.Data\\Helpers\\FileService.cs",
+              "RelativeToolTip": "GeoMarkSystem.Data\\Helpers\\FileService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA3wAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:52:04.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735648976797",
+    "project_id": "geotrackr-5cc8d",
+    "storage_bucket": "geotrackr-5cc8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735648976797:android:9904b3d7ac6d243655e974",
+        "android_client_info": {
+          "package_name": "com.geotrackr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwOvYcMpZ4Y9I_muKtzjk1xNwnlm2RK-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

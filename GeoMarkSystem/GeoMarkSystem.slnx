@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeoMarkSystem.Api/GeoMarkSystem.Api.csproj" />
+  <Project Path="GeoMarkSystem.Data/GeoMarkSystem.Data.csproj" />
+</Solution>

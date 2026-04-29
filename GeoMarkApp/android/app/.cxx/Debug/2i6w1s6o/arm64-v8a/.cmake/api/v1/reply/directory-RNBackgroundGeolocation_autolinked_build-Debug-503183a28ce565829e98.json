@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNBackgroundGeolocation_autolinked_build",
+		"source" : "E:/Personal/Data/GeoMarkApp/node_modules/react-native-background-geolocation/android/build/generated/source/codegen/jni"
+	}
+}

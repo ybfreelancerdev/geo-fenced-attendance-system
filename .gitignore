@@ -1,0 +1,74 @@
+# =========================
+# GENERAL
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+.DS_Store
+Thumbs.db
+
+# =========================
+# ENV & SECRETS
+# =========================
+.env
+.env.*
+*.env
+
+# Firebase / Google Secrets
+geotrackr-firebase.json
+GoogleService-Info.plist
+firebase-admin.json
+*.keystore
+*.jks
+
+# =========================
+# REACT NATIVE (Mobile)
+# =========================
+# Android
+./android/.gradle/
+./android/app/build/
+./android/build/
+./android/local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+
+# Metro / RN cache
+.expo/
+.expo-shared/
+.cache/
+metro-cache/
+
+# =========================
+# BACKEND (Node.js)
+# =========================
+dist/
+build/
+
+# =========================
+# BACKEND (.NET)
+# =========================
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+
+# =========================
+# IDE / EDITOR FILES
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS FILES
+# =========================
+*.lock
+package-lock.json
+yarn.lock
